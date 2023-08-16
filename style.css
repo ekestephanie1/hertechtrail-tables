@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse; 
+   width: 25%;
+    border: 1px solid black; 
+ font-family:  Geneva, Tahoma, sans-serif;
+  }
+ 
+  th, td{
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: left;
+  }
+ 
+  
+  th{
+    text-align: center;
+  }
